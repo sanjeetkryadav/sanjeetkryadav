@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Sanjeet👋
 
 I am a versatile Developer and aspiring **AI Engineer** with a passion for building data-driven applications. I bridge the gap between robust back-end logic and interactive, user-centric front-end experiences.
