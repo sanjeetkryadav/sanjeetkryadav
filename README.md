@@ -25,6 +25,6 @@ I am a versatile Developer and aspiring **AI Engineer** with a passion for build
 
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sanjeetkryadav&color=bluevoilet&style=for-the-badge) 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sanjeetkryadav&color=blueviolet&style=for-the-badge) 
 
 ---
