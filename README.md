@@ -10,7 +10,7 @@ I am a versatile Developer and aspiring **AI Engineer** with a passion for build
 
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=your-github-username) 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sanjeetkryadav) 
 
 ---
 
