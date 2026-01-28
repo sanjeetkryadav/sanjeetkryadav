@@ -16,7 +16,16 @@ I am a versatile Developer and aspiring **AI Engineer** with a passion for build
 - **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - **Automation & Testing:** ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 - **Runtimes Environment:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- **Fields of Interest:** `AI Engineering` `Data Science` `Full-Stack Development` `Software Architecture`
+
+---
+
+### 🧩 Fields of Interest
+
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data%20Science-238636?style=for-the-badge&logo=python&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-E94E32?style=for-the-badge&logo=gitbook&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-808080?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
